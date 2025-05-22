@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <<<<<<< HEAD
+<<<<<<< HEAD
     <title>blog-speedyenglish</title>
     <link href="https://mrphilip7.github.io/blogspeedyenglish/feed.xml" rel="self" />
     <link href="https://mrphilip7.github.io/blogspeedyenglish" />
     <updated>2025-05-22T20:53:43+02:00</updated>
+=======
+    <title>blogspeedyenglish.pl</title>
+    <link href="https://mrphilip7.github.io/blogspeedyenglish/feed.xml" rel="self" />
+    <link href="https://mrphilip7.github.io/blogspeedyenglish" />
+    <updated>2025-05-17T22:59:32+02:00</updated>
+>>>>>>> parent of 23a53ff (Updated from Publii)
 =======
     <title>blogspeedyenglish.pl</title>
     <link href="https://mrphilip7.github.io/blogspeedyenglish/feed.xml" rel="self" />
@@ -17,6 +24,7 @@
     <id>https://mrphilip7.github.io/blogspeedyenglish</id>
 
     <entry>
+<<<<<<< HEAD
 <<<<<<< HEAD
         <title>b1</title>
         <author>
@@ -37,6 +45,16 @@
         <id>https://mrphilip7.github.io/blogspeedyenglish/nowy-jork-10-miejsc-ktore-musisz-zobaczyc.html</id>
         <media:content url="https://mrphilip7.github.io/blogspeedyenglish/media/posts/8/8b11.jpg" medium="image" />
 
+=======
+        <title>Nowy Jork – 10 miejsc, które musisz zobaczyć</title>
+        <author>
+            <name>Iza</name>
+        </author>
+        <link href="https://mrphilip7.github.io/blogspeedyenglish/nowy-jork-10-miejsc-ktore-musisz-zobaczyc.html"/>
+        <id>https://mrphilip7.github.io/blogspeedyenglish/nowy-jork-10-miejsc-ktore-musisz-zobaczyc.html</id>
+        <media:content url="https://mrphilip7.github.io/blogspeedyenglish/media/posts/8/8b11.jpg" medium="image" />
+
+>>>>>>> parent of 23a53ff (Updated from Publii)
         <updated>2025-05-17T22:58:41+02:00</updated>
             <summary>
                 <![CDATA[
@@ -451,6 +469,9 @@
             <summary>
                 <![CDATA[
                         <img src="https://mrphilip7.github.io/blogspeedyenglish/media/posts/1/b11.jpg" alt="" />
+<<<<<<< HEAD
+>>>>>>> parent of 23a53ff (Updated from Publii)
+=======
 >>>>>>> parent of 23a53ff (Updated from Publii)
                     Zaangażowanie społeczne jest nieodłącznym elementem naszej szkoły językowej. Chociaż nasi kursanci uczą się języków obcych, staramy się, aby nasza społeczność (community) była aktywna i uczestniczyła w różnych inicjatywach charytatywnych i kulturalnych. Jak w filmie „Pay it forward” reż. Mimi Leder, podajemy dobro dalej i uruchamiamy łańcuszek szczęścia (the chain of&hellip;
                 ]]>
@@ -458,6 +479,10 @@
         <content type="html">
             <![CDATA[
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+                    <p><img src="https://mrphilip7.github.io/blogspeedyenglish/media/posts/1/b11.jpg" class="type:primaryImage" alt="" /></p>
+>>>>>>> parent of 23a53ff (Updated from Publii)
 =======
                     <p><img src="https://mrphilip7.github.io/blogspeedyenglish/media/posts/1/b11.jpg" class="type:primaryImage" alt="" /></p>
 >>>>>>> parent of 23a53ff (Updated from Publii)
